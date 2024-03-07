@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+env/
+.Python
+
+media
+
+Lib/
+Include/
+Scripts/
